@@ -13,7 +13,7 @@
             <description>Descripción de la noticia 1</description>
             <pubDate>Mon, 01 Jan 2023 00:00:00 +0000</pubDate>
             <author>Carlos</author>
-            <enclosure url="https://www.tecnonoticias.com/images/Z100.jpg" type="image/jpeg"/>
+            <enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Revista_%C2%A1Hola%21_logo.svg/2560px-Revista_%C2%A1Hola%21_logo.svg.png" type="image/png"/>
         </item>
         <item>
             <title>Noticia 2</title>
