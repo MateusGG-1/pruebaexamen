@@ -21,7 +21,7 @@
             <description>Descripción de la noticia 2</description>
             <pubDate>Tue, 02 Jan 2023 00:00:00 +0000</pubDate>
             <author>Carlos</author>
-            <enclosure url="img/1.png" type="image/jpeg"/>
+            <enclosure url="img/1.png" type="image/png"/>
         </item>
     </channel>
 </rss>
