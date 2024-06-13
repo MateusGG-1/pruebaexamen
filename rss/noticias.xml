@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>NOTICIAS TECNOLÓGICAS</title>
+        <link>index.html</link>
+        <description>NOTICIAS DE FUTBOL Y MOTOR</description>
+        <language>es</language>
+        <category>FUTBOL</category>
+        <category>MOTOR</category>
+        <item>
+            <title>Noticia 1</title>
+            <link>http://www.ejemplo.com/noticia1</link>
+            <description>Descripción de la noticia 1</description>
+            <pubDate>Mon, 01 Jan 2023 00:00:00 +0000</pubDate>
+            <author>Carlos</author>
+            <enclosure url="img/noticia1.jpg" type="image/jpeg"/>
+        </item>
+        <item>
+            <title>Noticia 2</title>
+            <link>http://www.ejemplo.com/noticia2</link>
+            <description>Descripción de la noticia 2</description>
+            <pubDate>Tue, 02 Jan 2023 00:00:00 +0000</pubDate>
+            <author>Carlos</author>
+            <enclosure url="img/noticia2.jpg" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
